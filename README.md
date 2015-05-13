@@ -65,4 +65,4 @@ Also, you can create dictionary.json file to store json information for translat
         });
 ```
 
-You can find example in github pages.
+You can find example in github pages http://pitmov.github.io/jtranslate/
