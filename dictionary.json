@@ -1,0 +1,26 @@
+{
+  "HOME": {
+    "ru": "ГЛАВНАЯ"
+  },
+  "SERVICES": {
+    "ru": "СЕРВИСЫ"
+  },
+  "WORKS": {
+    "ru": "КОНТАКТЫ"
+    },
+  "CONTACT": {
+    "ru":"КОНТАКТЫ"
+  },
+  "DESIGN AGENCY": {
+    "ru": "АГЕНСТВО ДИЗАЙНА"
+  },
+  "You Think, We Deliver": {
+    "ru": "Вы Думаете, Мы Создаем"
+  },
+  "Lorem ipsum dolor sit amet, consectetur adipiscing elit.": {
+    "ru":"тест тест тест тест тест"
+  },
+  "OUR SERVICES": {
+    "ru": "НАШИ СЕРВИСЫ"
+  }
+}
