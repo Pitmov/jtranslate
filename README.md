@@ -39,7 +39,7 @@ Basic usage:
                     "ru": "КОНТАКТЫ"
                 },
                 "DESIGN AGENCY": {
-                    "ru": "АГЕНСТВО ДИЗАЙНА"
+                    "ru": "АГЕНТСТВО ДИЗАЙНА"
                 },
                 "You Think, We Deliver": {
                     "ru": "Вы Думаете, Мы Создаем"
